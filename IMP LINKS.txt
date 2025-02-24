@@ -1,0 +1,4 @@
+https://www.youtube.com/watch?v=mm_sN-Elplg&t=1440s
+
+https://github.com/sdw-online/top_uk_youtubers_2024/blob/main/assets/scripts/python/extract_data_from_youtube_api.py
+
